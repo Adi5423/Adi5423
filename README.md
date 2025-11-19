@@ -95,10 +95,8 @@ I'm a passionate developer focused on crafting robust software experiences and e
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 12px;">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=adi5423&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff26a8&sideNums=00dbde&sideLabels=ff26a8&currStreakLabel=00dbde" width="430" height="180" style="border-radius: 16px; box-shadow: 0 8px 32px 0 #ff26a888;" alt="GitHub Streak" />
-    
-   <div>
+    </a>
     <img src="https://github-profile-trophy.vercel.app/?username=adi5423&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=20&title=Stars,Followers,Commit,PR,Issues,Repositories" width="430" height="180" style="border-radius: 16px; box-shadow: 0 8px 32px 0 #00dbde88;" alt="GitHub Trophies" />
-  </a>
   </div>
 
   <div align="center" style="margin: 32px 0 0 0;">
